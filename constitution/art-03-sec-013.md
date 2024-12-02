@@ -1,0 +1,2 @@
+# Section III-13. Style of bills; majority necessary to passage; yeas and nays entered on journal.
+The style of all bills shall be, Be it enacted by the people of the State of Nebraska, and no law shall be enacted except by bill. No bill shall be passed by the Legislature unless by the assent of a majority of all members elected and the yeas and nays on the question of final passage of any bill shall be entered upon the journal.

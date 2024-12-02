@@ -1,0 +1,2 @@
+# Section IV-25. Salaries of officials; fees.
+The officers provided for in this article shall receive such salaries as may be provided by law. Such officers, or such other officers as may be provided for by law, shall not receive for their own use any fees, costs, or interest upon public money in their hands. All fees that may hereafter be payable by law for services performed, or received by an officer provided for in this article, by virtue of his office shall be paid forthwith into the state treasury.

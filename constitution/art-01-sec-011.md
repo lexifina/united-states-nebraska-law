@@ -1,0 +1,2 @@
+# Section I-11. Rights of Accused.
+In all criminal prosecutions the accused shall have the right to appear and defend in person or by counsel, to demand the nature and cause of accusation, and to have a copy thereof; to meet the witnesses against him face to face; to have process to compel the attendance of witnesses in his behalf; and a speedy public trial by an impartial jury of the county or district in which the offense is alleged to have been committed.

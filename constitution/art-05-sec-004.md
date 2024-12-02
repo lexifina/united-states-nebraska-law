@@ -1,0 +1,2 @@
+# Section V-4. Chief Justice and Judges of the Supreme Court; selection; residence; location of offices.
+The Chief Justice and the Judges of the Supreme Court shall be selected as provided in this Article V. They may reside at the place where the court is located but shall reside within the state, and no Chief Justice or Judge of the Supreme Court shall be deemed thereby to have lost his or her residence at the place from which he or she was selected. The offices of the Chief Justice and Judges of the Supreme Court shall be at the place where the court is located.

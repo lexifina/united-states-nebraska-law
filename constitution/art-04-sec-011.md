@@ -1,0 +1,2 @@
+# Section IV-11. Elected state officer; vacation of office; Governor fill by appointment; term.
+If any elected state office created by this Constitution, except offices provided for in Article V of this Constitution, shall be vacated by death, resignation or otherwise, it shall be the duty of the Governor to fill that office by appointment, and the appointee shall hold the office until his successor shall be elected and qualified in such manner as may be provided by law.

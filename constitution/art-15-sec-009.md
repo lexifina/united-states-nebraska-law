@@ -1,0 +1,2 @@
+# Section XV-9. Controversies between employers and employees; industrial commission; appeals.
+Laws may be enacted providing for the investigation, submission, and determination of controversies between employers and employees in any business or vocation affected with a public interest and for the prevention of unfair business practices and unconscionable gains in any business or vocation affecting the public welfare. An Industrial Commission may be created for the purpose of administering such laws, and appeals shall be as provided by law.

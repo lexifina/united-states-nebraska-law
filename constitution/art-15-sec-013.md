@@ -1,0 +1,2 @@
+# Section XV-13. Labor organizations; no denial of employment; closed shop not permitted.
+No person shall be denied employment because of membership in or affiliation with, or resignation or expulsion from a labor organization or because of refusal to join or affiliate with a labor organization; nor shall any individual or corporation or association of any kind enter into any contract, written or oral, to exclude persons from employment because of membership in or nonmembership in a labor organization.

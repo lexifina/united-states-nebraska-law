@@ -1,0 +1,2 @@
+# Section XV-26. Political subdivision; revenues; commercial passenger air service.
+Notwithstanding restrictions imposed by any other provision in the Constitution, any city, county, or other political subdivision owning or operating an airport may expend or otherwise employ its revenues, from whatever source, for the public purpose of developing, or encouraging the development of, new or expanded regularly scheduled commercial passenger air service at such airport.

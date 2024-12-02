@@ -1,0 +1,2 @@
+# Section VI-1. Qualifications of electors.
+Every citizen of the United States who has attained the age of eighteen years on or before the first Tuesday after the first Monday in November and has resided within the state and the county and voting precinct for the terms provided by law shall, except as provided in section 2 of this article, be an elector for the calendar year in which such citizen has attained the age of eighteen years and for all succeeding calendar years.

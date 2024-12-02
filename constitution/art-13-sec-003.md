@@ -1,0 +1,2 @@
+# Section XIII-3. Credit of state; exception.
+The credit of the state shall never be given or loaned in aid of any individual, association, or corporation, except that the state may guarantee or make long-term, low-interest loans to Nebraska residents seeking adult or post high school education at any public or private institution in this state. Qualifications for and the repayment of such loans shall be as prescribed by the Legislature.

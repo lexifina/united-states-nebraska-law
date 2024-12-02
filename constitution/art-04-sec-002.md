@@ -1,0 +1,2 @@
+# Section IV-2. Governor; Lieutenant Governor; eligibility; qualifications; appointive officers, ineligible for other office.
+No person shall be eligible to the office of Governor, or Lieutenant Governor, who shall not have attained the age of thirty years, and who shall not have been for five years next preceding his election a resident and citizen of this state and a citizen of the United States. None of the appointive officers mentioned in this article shall be eligible to any other state office during the period for which they have been appointed.

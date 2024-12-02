@@ -1,0 +1,2 @@
+# Section XV-12. Removal of state capital.
+The seat of government of the state shall not be removed or relocated without the assent of a majority of the electors of the state voting thereupon, at a general election or elections, under such rules and regulations as to the number of elections and manner of voting and places to be voted for, as may be prescribed by law. Provided the question of removal may be submitted at such other general elections as may be provided by law.

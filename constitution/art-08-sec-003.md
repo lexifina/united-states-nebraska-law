@@ -1,0 +1,2 @@
+# Section VIII-3. Redemption from sales of real estate for taxes.
+The right of redemption from all sales of real estate, for the non- payment of taxes or special assessments of any character whatever, shall exist in favor of owners and persons interested in such real estate, for a period of not less than two years from such sales thereof. Provided, that occupants shall in all cases be served with personal notice before the time of redemption expires.

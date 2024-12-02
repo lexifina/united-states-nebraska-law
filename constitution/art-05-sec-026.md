@@ -1,0 +1,2 @@
+# Section V-26. Proviso as to effect of amendment.
+If the foregoing amendment shall be adopted by the electors, all existing courts which are not in the foregoing amendment specifically enumerated and concerning which no other provision is herein made, shall continue in existence and exercise their present jurisdiction, and the judges thereof shall receive their present compensation, until otherwise provided by law; and such judges or appointees to fill vacancies shall hold their offices until their successors shall be elected and qualified.

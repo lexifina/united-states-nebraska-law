@@ -1,0 +1,2 @@
+# Section I-23. Capital cases; right of direct appeal; effect; other cases; right of appeal.
+In all capital cases, appeal directly to the Supreme Court shall be as a matter of right and shall operate as a supersedeas to stay the execution of the sentence of death until further order of the Supreme Court. In all other cases, criminal or civil, an aggrieved party shall be entitled to one appeal to the appellate court created pursuant to Article V, section 1, of this Constitution or to the Supreme Court as may be provided by law.

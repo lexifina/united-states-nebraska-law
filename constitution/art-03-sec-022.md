@@ -1,0 +1,2 @@
+# Section III-22. Appropriations for state; deficiencies; bills for pay of members and officials.
+Each Legislature shall make appropriations for the expenses of the Government. And whenever it is deemed necessary to make further appropriations for deficiencies, the same shall require a two-thirds vote of all the members elected to the Legislature. Bills making appropriations for the pay of members and officers of the Legislature, and for the salaries of the officers of the Government, shall contain no provision on any other subject.

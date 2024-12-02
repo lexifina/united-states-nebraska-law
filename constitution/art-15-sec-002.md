@@ -1,0 +1,2 @@
+# Section XV-2. Official in default as collector and custodian of public money or property; disqualification; felon disqualified.
+No person who is in default as collector and custodian of public money or property shall be eligible to any office of trust or profit under the constitution or laws of this state. No person convicted of a felony shall be eligible to any such office unless he shall have been restored to civil rights.

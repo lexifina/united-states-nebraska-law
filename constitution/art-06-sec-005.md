@@ -1,0 +1,2 @@
+# Section VI-5. Electors; privileged from arrest.
+Electors shall in all cases, except treason, felony, or breach of the peace, be privileged from arrest during their attendance at elections, and going to and returning from the same.

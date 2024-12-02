@@ -1,0 +1,2 @@
+# Section V-7. Chief Justice; Associate Justices; qualifications.
+No person shall be eligible to the office of Chief Justice or Judge of the Supreme Court unless he shall be at least thirty years of age, and a citizen of the United States, and shall have resided in this state at least three years next preceding his selection; nor, in the case of a Judge of the Supreme Court selected from a Supreme Court judicial district, unless he shall be a resident and elector of the district from which selected.

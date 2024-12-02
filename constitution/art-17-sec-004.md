@@ -1,0 +1,2 @@
+# Section XVII-4. General election of state.
+The general election of this state shall be held on the Tuesday succeeding the first Monday of November in the year 1914 and every two years thereafter. All state, district, county, precinct, township and other officers, by the constitution or laws made elective by the people, except school district officers, and municipal officers in cities, villages and towns, shall be elected at a general election to be held as aforesaid. An incumbent of any office shall hold over until his successor is duly elected and qualified.

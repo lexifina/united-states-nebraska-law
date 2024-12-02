@@ -1,0 +1,12 @@
+# Section XVIII-2. Instruction to members of congressional delegation; ballot notation; when.
+(1) We, the voters of Nebraska, hereby instruct each member of our congressional delegation to use all of his or her delegated powers to pass the congressional term limits amendment set forth in Article XVIII, section 1, of this Constitution.
+(2) All primary and general election ballots shall have printed the information "DISREGARDED VOTERS INSTRUCTION ON TERM LIMITS" adjacent to the name of any United States Senator or United States Representative who:
+(a) Fails to vote in favor of the proposed congressional term limits amendment set forth in Article XVIII, section 1, of this Constitution, when brought to a vote;
+(b) Fails to second such proposed congressional term limits amendment if it lacks for a second before any proceeding of the legislative body;
+(c) Fails to propose or otherwise bring to a vote of the full legislative body such proposed congressional term limits amendment if it otherwise lacks a legislator who so proposes or brings to a vote of the full legislative body such proposed congressional term limits amendment;
+(d) Fails to vote in favor of all votes bringing such proposed congressional term limits amendment before any committee or subcommittee of the respective house upon which he or she serves;
+(e) Fails to reject any attempt to delay, table, or otherwise prevent a vote by the full legislative body of such proposed congressional term limits amendment;
+(f) Fails to vote against any proposed constitutional amendment that would establish longer term limits than those in the proposed congressional term limits amendment set forth in Article XVIII, section 1, of this Constitution, regardless of any other actions in support of such proposed congressional term limits amendment;
+(g) Sponsors or cosponsors any proposed constitutional amendment or law that would increase term limits beyond those in the proposed congressional term limits amendment set forth in Article XVIII, section 1, of this Constitution; or
+(h) Fails in any way to ensure that all votes on congressional term limits are recorded and made available to the public.
+(3) The information "DISREGARDED VOTERS INSTRUCTION ON TERM LIMITS" shall not appear adjacent to the names of incumbent candidates for Congress if the congressional term limits amendment set forth in Article XVIII, section 1, of this Constitution, is before the states for ratification or has become part of the United States Constitution.

@@ -1,0 +1,2 @@
+# Section I-9. Bail; fines; imprisonment; cruel and unusual punishment.
+All persons shall be bailable by sufficient sureties, except for treason, sexual offenses involving penetration by force or against the will of the victim, and murder, where the proof is evident or the presumption great. Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishment inflicted.

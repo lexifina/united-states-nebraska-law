@@ -1,0 +1,16 @@
+# Section XVIII-4. Instruction to members of the Legislature; ballot notation; when.
+(1) We the voters of Nebraska, hereby instruct each member of the Legislature to use all of his or her delegated powers to pass an application pursuant to Article V of the United States Constitution as set forth in subsection (2) of this section, and to ratify, if proposed, the congressional term limits amendment set forth in Article XVIII, section 1, of this Constitution.
+(2) Application: We, the people and the Legislature, due to our desire to establish term limits on Congress, hereby make application to Congress, pursuant to our power under Article V of the United States Constitution, to call a convention for proposing amendments to the United States Constitution.
+(3) All primary and general election ballots shall have the information "DISREGARDED VOTERS INSTRUCTION ON TERM LIMITS" printed adjacent to the name of any respective member of the Legislature who:
+(a) Fails to vote in favor of the application set forth in subsection (2) of this section when brought to a vote;
+(b) Fails to second the application if it lacks for a second;
+(c) Fails to vote in favor of all votes bringing the application before any committee or subcommittee upon which he or she serves;
+(d) Fails to propose or otherwise bring to a vote of the full legislative body the application if it otherwise lacks a legislator who so proposes or brings to a vote of the full legislative body the application;
+(e) Fails to vote against any attempt to delay, table, or otherwise prevent a vote by the full legislative body on the application;
+(f) Fails in any way to ensure that all votes on the application are recorded and made available to the public;
+(g) Fails to vote against any change, addition, or modification to the application;
+(h) Fails to vote in favor of the congressional term limits amendment if it is sent to the states for ratification; or
+(i) Fails to vote against any term limits amendment with longer terms if such an amendment is sent to the states for ratification.
+(4) The information "DISREGARDED VOTERS INSTRUCTION ON TERM LIMITS" shall not appear adjacent to the names of candidates for the Legislature as required by subdivisions (3)(a) through (3)(g) of this section if the State of Nebraska has made an application to Congress for a convention for proposing amendments to the United States Constitution pursuant to this initiative and such application has not been withdrawn or the congressional term limits amendment set forth in Article XVIII, section 1, of this Constitution, has been submitted to the states for ratification.
+(5) The information "DISREGARDED VOTERS INSTRUCTION ON TERM LIMITS" shall not appear adjacent to the names of candidates for the Legislature as required by subdivisions (3)(h) and (3)(i) of this section if the State of Nebraska has ratified the proposed congressional term limits amendment set forth in Article XVIII, section 1, of this Constitution.
+(6) The information "DISREGARDED VOTERS INSTRUCTION ON TERM LIMITS" shall not appear adjacent to the names of candidates for the Legislature as required by subdivisions (3)(a) through (3)(i) of this section if the proposed congressional term limits amendment set forth in Article XVIII, section 1, of this Constitution, has become part of the United States Constitution.

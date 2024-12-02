@@ -1,0 +1,2 @@
+# Section X-5. Capital stock; dividends.
+The capital stock of public utility corporations or common carriers shall not be increased for any purpose, except after public notice for sixty days, and in such manner as may be provided by law. No dividend shall be declared or distributed except out of net earnings after paying all operating expenses including a depreciation reserve sufficient to keep the investment intact.

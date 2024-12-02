@@ -1,0 +1,2 @@
+# Section III-27. Acts take effect after three months; emergency bills; session laws.
+No act shall take effect until three calendar months after the adjournment of the session at which it passed, unless in case of emergency, which is expressed in the preamble or body of the act, the Legislature shall by a vote of two-thirds of all the members elected otherwise direct. All laws shall be published within sixty days after the adjournment of each session and distributed among the several counties in such manner as the Legislature may provide.

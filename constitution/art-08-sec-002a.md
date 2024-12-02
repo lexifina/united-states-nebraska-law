@@ -1,0 +1,2 @@
+# Section VIII-2A. Exemption of personal property in transit in licensed warehouses or storage areas.
+The Legislature may establish bonded and licensed warehouses or storage areas for goods, wares and merchandise in transit in the state which are intended for and which are shipped to final destinations outside this state upon leaving such warehouses or storage areas, and may exempt such goods, wares and merchandise from ad valorem taxation while in such storage areas.

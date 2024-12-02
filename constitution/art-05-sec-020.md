@@ -1,0 +1,2 @@
+# Section V-20. Officers in this Article; tenure; residence; duties; compensation.
+All officers provided for in this Article shall hold their offices until their successors shall be qualified and they shall respectively reside in the district or county from which they shall be selected. All officers, when not otherwise provided for in this Article, shall perform such duties and receive such compensation as may be prescribed by law.

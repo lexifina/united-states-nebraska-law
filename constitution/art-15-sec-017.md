@@ -1,0 +1,4 @@
+# Section XV-17. Retirement and pension funds; investment.
+Notwithstanding section 3 of Article XIII or any other provision in the Constitution:
+(1) The Legislature may provide for the investment of any state funds, including retirement or pension funds of state employees and Nebraska school employees in such manner and in such investments as it may by statute provide; and
+(2) The Legislature may authorize the investment of retirement or pension funds of cities, villages, school districts, public power districts, and other governmental or political subdivisions in such manner and in such investments as the governing body of such city, village, school district, public power district and other governmental or political subdivision may determine but subject to such limitations as the Legislature may by statute provide.

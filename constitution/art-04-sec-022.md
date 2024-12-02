@@ -1,0 +1,2 @@
+# Section IV-22. Executive officials to keep accounts; reports; false reports, penalty.
+The Legislature shall provide by statute for the keeping of accounts and the reporting by those agencies of the state which are required to administer cash funds not subject to appropriation by the Legislature, and an annual report thereof shall be made to the Governor under oath; and any officer who makes a false report shall be guilty of perjury and punished accordingly.

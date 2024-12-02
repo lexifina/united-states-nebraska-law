@@ -1,0 +1,2 @@
+# Section XI-5. Charter of city of 100,000; home rule charter authorized.
+The charter of any city having a population of more than one hundred thousand inhabitants may be adopted as the home rule charter of such city by a majority vote of the qualified electors of such city voting upon the question, and when so adopted may thereafter be changed or amended as provided in Section 4 of this article, subject to the Constitution and laws of the state.

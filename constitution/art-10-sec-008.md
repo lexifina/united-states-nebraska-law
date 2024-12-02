@@ -1,0 +1,2 @@
+# Section X-8. Eminent domain for depot or other uses.
+No railroad corporation organized under the laws of any other state, or of the United States and doing business in this state shall be entitled to exercise the right of eminent domain or have power to acquire the right of way, or real estate for depot or other uses, until it shall have become a body corporate pursuant to and in accordance with the laws of this state.

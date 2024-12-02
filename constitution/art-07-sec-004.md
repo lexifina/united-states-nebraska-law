@@ -1,0 +1,2 @@
+# Section VII-4. State Board of Education; Commissioner of Education; appointment; powers; duties.
+The State Board of Education shall appoint and fix the compensation of the Commissioner of Education, who shall be the executive officer of the State Board of Education and the administrative head of the State Department of Education, and who shall have such powers and duties as the Legislature may direct. The board shall appoint all employees of the State Department of Education on the recommendation of the Commissioner of Education.

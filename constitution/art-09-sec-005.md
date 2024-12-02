@@ -1,0 +1,2 @@
+# Section IX-5. Township organization.
+The Legislature shall provide by general law for township organization, under which any county may organize whenever a majority of the legal voters of such county voting at any general election shall so determine; and in any county that shall have adopted a township organization the question of continuing the same may be submitted to a vote of the electors of such county at a general election in the manner that shall be provided by law.

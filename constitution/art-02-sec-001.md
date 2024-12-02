@@ -1,0 +1,3 @@
+# Section II-1. Legislative, executive, judicial.
+(1) The powers of the government of this state are divided into three distinct departments, the legislative, executive, and judicial, and no person or collection of persons being one of these departments shall exercise any power properly belonging to either of the others except as expressly directed or permitted in this Constitution.
+(2) Notwithstanding the provisions of subsection (1) of this section, supervision of individuals sentenced to probation, released on parole, or enrolled in programs or services established within a court may be undertaken by either the judicial or executive department, or jointly, as provided by the Legislature.
