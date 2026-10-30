@@ -1,0 +1,75 @@
+{
+ "country": "US-NE",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of the State of Nebraska (1875, as amended)",
+   "url": "https://nebraskalegislature.gov/FloorDocs/Current/PDF/Constitution/constitution.pdf",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 207,
+     "source_url": "https://web.archive.org/web/2026id_/https://nebraskalegislature.gov/FloorDocs/Current/PDF/Constitution/constitution.pdf",
+     "sha256": "13930e4c22878219b17abe55bb911997de2310ab0781f42282bd6f0b0a8ea585"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0021",
+   "short": "Neb. Rev. Stat. ch. 21",
+   "title": "Nebraska Revised Statutes, Chapter 21: Corporations and other companies",
+   "url": "https://nebraskalegislature.gov/laws/browse-chapters.php?chapter=21",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1555,
+     "source_url": "https://nebraskalegislature.gov/laws/browse-chapters.php?chapter=21",
+     "sha256": "2507d000dbe30ae8b6c6092a4ae519965fddf747904cddf01d7d23ab7c15fc85"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0025",
+   "short": "Neb. Rev. Stat. ch. 25",
+   "title": "Nebraska Revised Statutes, Chapter 25: Courts; civil procedure",
+   "url": "https://nebraskalegislature.gov/laws/browse-chapters.php?chapter=25",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1545,
+     "source_url": "https://nebraskalegislature.gov/laws/browse-chapters.php?chapter=25",
+     "sha256": "3cd2cde93efad9d1b6c46f3e6555094dc362242b5976aa1b1bf394617da7b1f4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0028",
+   "short": "Neb. Rev. Stat. ch. 28",
+   "title": "Nebraska Revised Statutes, Chapter 28: Crimes and punishments",
+   "url": "https://nebraskalegislature.gov/laws/browse-chapters.php?chapter=28",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 780,
+     "source_url": "https://nebraskalegislature.gov/laws/browse-chapters.php?chapter=28",
+     "sha256": "954bdfd0fa29eb6322812c31dbd7b22b552aacedbd7b4fb8915fc2605d0452dd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0076",
+   "short": "Neb. Rev. Stat. ch. 76",
+   "title": "Nebraska Revised Statutes, Chapter 76: Real property",
+   "url": "https://nebraskalegislature.gov/laws/browse-chapters.php?chapter=76",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1131,
+     "source_url": "https://nebraskalegislature.gov/laws/browse-chapters.php?chapter=76",
+     "sha256": "9f6251b5e5080a4bde7135476aa4b34241c8fe3903efbc9d6505d9cd19d8c6f1"
+    }
+   ]
+  }
+ ]
+}

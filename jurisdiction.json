@@ -1,0 +1,9 @@
+{
+  "path": "us-ne",
+  "code": "NE",
+  "name": "Nebraska",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-nebraska-law",
+  "build": "built: Constitution, one version (certified 2024-12-02); plus Revised Statutes chapters 21, 25, 28, 76 (one version each, from web captures)",
+  "register_date": "2026-10-30"
+}
