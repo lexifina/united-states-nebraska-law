@@ -1,0 +1,35 @@
+{
+ "parts": {
+  "chapter-1.json": {
+   "acts": [
+    "chapter-0001"
+   ],
+   "sha256": "578c92b1cad2066cb311273a104a6f942323da6a89c5aca2fc7fa63eb7833980"
+  },
+  "chapter-21.json": {
+   "acts": [
+    "chapter-0021"
+   ],
+   "sha256": "98595db92e009f6e069c25ebf64b0f4b0acad53ed47ce1e0e84e323637f8985b"
+  },
+  "chapter-25.json": {
+   "acts": [
+    "chapter-0025"
+   ],
+   "sha256": "3045575fdb6be91c1908412715fa6c117aa57f745fededf74233d348474d5450"
+  },
+  "chapter-28.json": {
+   "acts": [
+    "chapter-0028"
+   ],
+   "sha256": "7edeaf0dc25b13a3eb65f9917d586bb23675083f0d936e291124d566e9852e73"
+  },
+  "chapter-76.json": {
+   "acts": [
+    "chapter-0076"
+   ],
+   "sha256": "a3852918a7970a90720f3b386b290b15a125718f7dfb4aeafe6e62c1c2b22f8e"
+  }
+ },
+ "schema": 1
+}

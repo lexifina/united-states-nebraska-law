@@ -16,6 +16,20 @@
    ]
   },
   {
+   "slug": "chapter-0001",
+   "short": "Neb. Rev. Stat. ch. 1",
+   "title": "Nebraska Revised Statutes, Chapter 1: Accountants",
+   "url": "https://nebraskalegislature.gov/laws/browse-chapters.php?chapter=1",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 85,
+     "source_url": "https://nebraskalegislature.gov/laws/browse-chapters.php?chapter=1",
+     "sha256": "dd3b9427db1fa8296c6788f08ee394d4b411cf3e411865f34d0d292b0c8397d8"
+    }
+   ]
+  },
+  {
    "slug": "chapter-0021",
    "short": "Neb. Rev. Stat. ch. 21",
    "title": "Nebraska Revised Statutes, Chapter 21: Corporations and other companies",
